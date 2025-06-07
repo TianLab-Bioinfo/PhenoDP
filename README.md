@@ -35,7 +35,7 @@ pip install transformers pandas numpy tqdm scipy obonet networkx "pyhpo==3.3.2" 
 ### Install PhenoDP
 
 ```bash
-git clone https://github.com/yourusername/phenodp.git
+git clone https://github.com/TianLab-Bioinfo/PhenoDP.git
 cd phenodp
 pip install -e .
 ```
@@ -67,7 +67,7 @@ Please see `notebooks/Tutorial.ipynb`
 If you encounter any issues during use or have any suggestions, feel free to contact us:
 
 - Email: blwen24@m.fudan.edu.cn
-- Email: ylong2025@163.com
+- Email: longyi@mail.nankai.edu.cn
 
 You can also submit an issue on GitHub.
 
@@ -78,7 +78,7 @@ If you use PhenoDP in your research, please cite:
 ```bibtex
 @article{wen2025phenodp,
   title={PhenoDP: leveraging deep learning for phenotype-based case reporting, disease ranking, and symptom recommendation},
-  author={Wen, B. and Shi, S. and Long, Y. and others},
+  author={Baole Wen, Sheng Shi, Yi Long, Yanan Dang, Weidong Tian*},
   journal={Genome Medicine},
   volume={17},
   pages={67},
